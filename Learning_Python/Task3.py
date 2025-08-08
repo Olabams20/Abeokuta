@@ -1,0 +1,10 @@
+# simple timetable for a day in a Nigerian secondary school using tab spacing and newlines.
+print("Monday Time Table\n")
+print("8:00 AM\tComputer Studies")
+print("9:00 AM\tMathematics")
+print("10:00 AM\tBreak")
+print("10:30 AM\tEnglish Language")
+print("11:30 AM\tBasic Science")
+print("12:30 PM\tLunch")
+print("1:30 PM\tSocial Studies")
+print("2:30 PM\tYoruba Language")

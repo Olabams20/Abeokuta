@@ -1,0 +1,6 @@
+# Step 1 (Greetings)
+# Step 2 (Order)
+# Step 3 (Order delivered)
+print("Welcome to Olabams Restaurant")
+order = input("What will you like to order: ")
+print(f"Your {order} is ready.")
